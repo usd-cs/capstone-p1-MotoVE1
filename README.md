@@ -1,10 +1,10 @@
 # [COMP-491-FA23 Example Project P1](https://docs.google.com/presentation/d/1ur-GH8_Yc5bef2S-427j8EH350V7yq3Hi5NbH5QZm9w/edit?usp=sharing)
 
-## Team: 
-### CEO: 
-### PM: 
-### Dev: 
-### Test: 
+## Team: MOTOVE
+### CEO: Kevin
+### PM: Brayan
+### Dev: Enrique
+### Test: Kennedy
 
 
 
